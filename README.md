@@ -1,5 +1,5 @@
 # HBNN
-The code is comming soon.
+The code is coming soon.
 
 
 
