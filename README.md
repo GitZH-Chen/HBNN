@@ -1,5 +1,5 @@
 # HBNN
-(CVPR26) Hyperbolic Busemann Neural Networks
+The code is comming soon.
 
 
 
