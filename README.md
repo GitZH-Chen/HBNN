@@ -15,6 +15,13 @@ If you find this project helpful, please consider citing:
   booktitle={CVPR},
   year={2026}
 }
+
+@article{chen2025gyrobn_extension,
+  title   = {Riemannian Batch Normalization: A Gyro Approach},
+  author  = {Ziheng Chen and Xiaojun Wu and Bernhard Schölkopf and Nicu Sebe},
+  journal = {arXiv preprint arXiv: 2509.07115},
+  year    = {2025},
+}
 ```
 
 ## What Is Included Now
@@ -24,7 +31,7 @@ The currently available core modules (under `lib/bnn`) are:
 - `BMLR.py`: Busemann multinomial logistic regression (Lorentz / Poincare)
 - `BFC.py`: Busemann fully-connected layer
 - `Auxlayers.py`: wrapper layers (for synchronizing with learnable curvature / external manifold parameters)
-- `Geometry/`: implementations of hyperbolic geometry and constant-curvature manifolds
+- `Geometry/`: implementations of constant-curvature spaces
 
 ## Quick Usage
 
