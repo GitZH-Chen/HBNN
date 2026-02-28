@@ -31,7 +31,7 @@ The currently available core modules (under `lib/bnn`) are:
 - `BMLR.py`: Busemann multinomial logistic regression (Lorentz / Poincare)
 - `BFC.py`: Busemann fully-connected layer
 - `Auxlayers.py`: wrapper layers (for synchronizing with learnable curvature / external manifold parameters)
-- `Geometry/`: implementations of constant-curvature spaces
+- `Geometry/`: implementations of constant-curvature spaces, which is detailed in `Riemannian Batch Normalization: A Gyro Approach`.
 
 ## Quick Usage
 
