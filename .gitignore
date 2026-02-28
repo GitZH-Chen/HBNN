@@ -1,0 +1,20 @@
+# Experiment outputs
+**/outputs/
+**/outputs-Summary/
+**/Aux/
+
+# VS Code settings
+.vscode/
+
+# IDE metadata
+.idea/
+.DS_Store
+
+#other
+*.swp
+*.swo
+*.tmp
+*.log
+*.sh
+proxy_on.sh
+AGENTS.md
