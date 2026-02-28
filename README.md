@@ -1,10 +1,10 @@
 # HBNN
 
-This repository hosts the core implementation of **Hyperbolic Busemann Neural Networks (HBNN)**.
+This repository hosts the core implementation of Hyperbolic Busemann Neural Networks (HBNN).
 
 ## Introduction
 
-At this stage, `lib/bnn` mainly contains the key **Busemann layers** from the paper, and the training code will be released later.
+At this stage, `lib/bnn` mainly contains the key Busemann layers from the paper, and the training code will be released later.
 
 If you find this project helpful, please consider citing:
 
