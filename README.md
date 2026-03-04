@@ -60,8 +60,4 @@ clf = BMLR(
 ## Visualization Example
 
 - `lib/bnn/evaluation/vis_horosphere.py` provides the visualization function and script for horospheres, reproducing Figure 1 in the paper.
-- Run the script directly:
-  ```bash
-  python lib/bnn/evaluation/vis_horosphere.py
-  ```
 
