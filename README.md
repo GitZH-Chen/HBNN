@@ -32,7 +32,7 @@ If you find this project helpful, please consider citing:
 
 The currently available core modules (under `lib/bnn`) are:
 
-- `lib/bnn/evaluation/vis_horosphere.py` provides the visualization function and script for horospheres, reproducing Figure 1 in the paper.
+- `lib/bnn/evaluation/vis_horosphere.py` provides the visualization for horospheres, reproducing Figure 1 in the paper.
 - `BMLR.py`: Busemann multinomial logistic regression (Lorentz / Poincare)
 - `BFC.py`: Busemann fully-connected layer
 - `Auxlayers.py`: wrapper layers (for synchronizing with learnable curvature / external manifold parameters)
