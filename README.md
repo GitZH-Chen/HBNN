@@ -1,3 +1,7 @@
+[<img src="https://img.shields.io/badge/arXiv-2602.18858-b31b1b"></img>](https://arxiv.org/abs/2602.18858)
+<!-- [<img src="https://img.shields.io/badge/OpenReview|forum-5S8ruWKe8l-8c1b13"></img>](https://openreview.net/forum?id=5S8ruWKe8l)
+[<img src="https://img.shields.io/badge/OpenReview|pdf-5S8ruWKe8l-8c1b13"></img>](https://openreview.net/pdf?id=5S8ruWKe8l) -->
+
 # HBNN
 
 This repository hosts the core implementation of Hyperbolic Busemann Neural Networks (HBNN).
