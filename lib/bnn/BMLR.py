@@ -6,7 +6,7 @@ from . import BLayer
 
 class BMLR(BLayer):
     """
-    Busemann-based MLR on the Lorentz (hyperboloid) model.
+    Busemann MLR on the Lorentz (hyperboloid) and Poincare models.
     logit_k(x) = g_k * B^{v_k}(x) + b_k,
     where v_k is a unit tangent direction at the origin.
     """
